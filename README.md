@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PriyaBaradwaj
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning full stack 
-- 📫 You can reach me through priyabaradwaj2004@gmail.com
-- 😄 Pronouns: ...
+- Iam pusing my BE in Computer Science in VTU University 
+- I’m interested in Web development
+- I’m currently learning full stack 
+- You can reach me through priyabaradwaj2004@gmail.com
 - ⚡ I am a fast learner
 
 <!---
